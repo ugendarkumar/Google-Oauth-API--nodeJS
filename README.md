@@ -3,7 +3,7 @@
 
 use npm install (to fetch the required dependencies)
 
-create an .env file and the following lines
+add your credentials to the following lines in the .env file
 
 
 clientId = your google client id for the project
