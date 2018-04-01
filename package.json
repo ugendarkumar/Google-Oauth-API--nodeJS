@@ -1,0 +1,35 @@
+{
+  "name": "google-oauth-api--nodejs",
+  "version": "1.0.0",
+  "description": "google oauth",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugendarkumar/Google-Oauth-API--nodeJS.git"
+  },
+  "keywords": [
+    "google",
+    "oauth"
+  ],
+  "author": "ugendar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugendarkumar/Google-Oauth-API--nodeJS/issues"
+  },
+  "homepage": "https://github.com/ugendarkumar/Google-Oauth-API--nodeJS#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "googleapis": "^27.0.0",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
